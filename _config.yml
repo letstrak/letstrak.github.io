@@ -1,0 +1,8 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://letstrak.github.io
+title: letstrak
+tagline: gps tracker, gps tracking device, personal tracking device, pet tracking devices, vehicle tracking systems
+description: The GPS system is able to tell the specific location of the item being tracked. The global positioning system uses satellite to get specific map coordinates of the item being monitored.
+paginate: 5
